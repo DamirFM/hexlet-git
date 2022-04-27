@@ -1,3 +1,1 @@
-Hello, Hexlet!
-Error
-'new comment'
+No code No pain
